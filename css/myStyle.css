@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sectionMargin {
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width:100%;
+}
+
+.sectionMargin2 {
+	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width:100%;
+	margin: auto;
+}
+
+h2,h3,h4,h5,h6 {
+	
+	color:#4f9bc7;
+	font-family: 'Bitter', serif;
+}
+
+h1 {
+	color:#4F9BC7;
+	font-family: 'Bitter', serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+#contact{
+	background:#333333;
+	color:#f4f4f4;
+	padding-bottom:80px;
+}
+
+textarea.form-control{
+    height:100px;
+}
+
+hr {
+	background-color:#A7C53B;
+}
+
